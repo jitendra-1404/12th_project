@@ -1,1 +1,2 @@
-"# 12th_project" 
+"# 12th class project" 
+uses of random , tkinter and pygame module
